@@ -1,0 +1,9 @@
+/* 引入顶部logo字体 */
+@font-face {
+    font-family: "pacifico";
+    src: url("../font/Pacifico.ttf");
+}
+@font-face {
+    font-family: "barbarahand";
+    src: url("../font/barbarahand-webfont.woff2");
+}
